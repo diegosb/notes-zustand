@@ -1,4 +1,4 @@
-Testing [Zustand](https://github.com/react-spring/zustand) and [Snowpack](https://www.snowpack.dev/#snowpack%E2%80%99s-build-pipeline) with a sticky notes app
+Testing [Zustand](https://github.com/react-spring/zustand) and [Snowpack](https://www.snowpack.dev/) with a sticky notes app
 
 # New Project
 
