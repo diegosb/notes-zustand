@@ -1,5 +1,6 @@
 Testing [Zustand](https://github.com/react-spring/zustand) and [Snowpack](https://www.snowpack.dev/) with a sticky notes app
 
+You can see it online [here](https://notes-zustand.vercel.app)
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
